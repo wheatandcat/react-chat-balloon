@@ -25,6 +25,11 @@
   "bugs": {
     "url": "https://github.com/wheatandcat/react-chat-balloon/issues"
   },
+  "storybook-deployer": {
+    "gitUsername": "wheatandcat",
+    "gitEmail": "wheatandcat@gamail.com",
+    "commitMessage": "react-chat-balloon storybook to GitHub Pages"
+  },
   "homepage": "https://github.com/wheatandcat/react-chat-balloon#readme",
   "dependencies": {
     "react": "^16.2.0",
