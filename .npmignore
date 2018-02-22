@@ -3,5 +3,4 @@ example/
 .storybook/
 doc/
 storybook-static/
-jest-setup.js
 .prettierrc

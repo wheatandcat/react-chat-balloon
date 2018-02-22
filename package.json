@@ -1,7 +1,7 @@
 {
   "name": "react-chat-balloon",
   "version": "0.5.1",
-  "description": "",
+  "description": "react chat balloon",
   "main": "dist/index.js",
   "scripts": {
     "build": "run-s build:*",
